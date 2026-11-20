@@ -7,4 +7,4 @@
 - **RAM:** 12 GB
 - **Disk Type:** SSD (Google Cloud Storage)
 - **Operating System:** Ubuntu 22.04
-- **Full Run Time:** [Write how long it took you to test the short video here, e.g., 2 minutes]
+- **Full Run Time:** [the time to run the short video is 10 minutes]
